@@ -17,7 +17,7 @@ require_once "db.php";
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./assets/style.css">
     <meta name="description" content="website">
     <script src="https://kit.fontawesome.com/ef9d577567.js" crossorigin="anonymous"></script>
     <link rel="website icon" type="png" href="./img/logo.webp">
