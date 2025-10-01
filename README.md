@@ -1,4 +1,4 @@
-# wsp-note - README.md
+# Shared Notebook (wsp-note) - README.md
 
 A notebook with autosaves every second, making it ideal for use on multiple devices. It also includes a "toggle list" button with other writing pads.
 
