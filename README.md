@@ -8,9 +8,9 @@ A notebook with autosaves every second, making it ideal for use on multiple devi
 
 ```
 root/
- ├─ create_note.php          # 
- ├─ db.php         # 
- ├─ index.php         # 
+ ├─ create_note.php          
+ ├─ db.php         
+ ├─ index.php         
  ├─ list_notes.php
  ├─ login.php
  ├─ load_note.php
